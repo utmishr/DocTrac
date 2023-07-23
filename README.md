@@ -1,6 +1,6 @@
-# Doctrak - Document Tracking System
+# Doctrac - Document Tracking System
 
-Doctrak is a document tracking system that allows users to create and track the current status of documents. It utilizes Node.js, RSA for digital signature, Redis for caching, and Node.js cluster for multicore utilization, ensuring efficient performance and secure document handling. Users can create documents and track their progress as they move through various stages and are handled by designated dispatchers and responsible authorities. 
+Doctrac is a document tracking system that allows users to create and track the current status of documents. It utilizes Node.js, RSA for digital signature, Redis for caching, and Node.js cluster for multicore utilization, ensuring efficient performance and secure document handling. Users can create documents and track their progress as they move through various stages and are handled by designated dispatchers and responsible authorities. 
 
 ## Features
 
@@ -25,7 +25,7 @@ https://docs.google.com/document/d/10mjqRdSvJm7z7sYW2pKFFwFzG9C0fG267S8n-21Lb6g/
 
    ```bash
    git clone https://github.com/ankitsankhyan/Document_tracking_system.git
-   cd doctrak
+   cd doctrac
    ```
 
 2. **Install Dependencies**:
