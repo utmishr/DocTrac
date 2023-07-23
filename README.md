@@ -1,6 +1,6 @@
 # Doctrak - Document Tracking System
 
-Doctrak is a document tracking system that allows users to create and track the current status of documents. It utilizes Node.js, RSA for digital signature, Redis for caching, and Node.js cluster for multicore utilization, ensuring efficient performance and secure document handling. Users can create documents and track their progress as they move through various stages and are handled by designated dispatchers and responsible authorities.
+Doctrak is a document tracking system that allows users to create and track the current status of documents. It utilizes Node.js, RSA for digital signature, Redis for caching, and Node.js cluster for multicore utilization, ensuring efficient performance and secure document handling. Users can create documents and track their progress as they move through various stages and are handled by designated dispatchers and responsible authorities. 
 
 ## Features
 
@@ -15,6 +15,9 @@ Doctrak is a document tracking system that allows users to create and track the 
 5. **Multiple Dispatcher Handling**: The system efficiently handles scenarios where multiple dispatchers are available. Requests are distributed among them, and the first dispatcher to select a request takes responsibility for handling it.
 
 6. **Authority Tagging**: The responsible authority is tagged to each document, and they can digitally sign the document using their provided private key.
+
+## Screenshots and Detail Analysis
+https://docs.google.com/document/d/10mjqRdSvJm7z7sYW2pKFFwFzG9C0fG267S8n-21Lb6g/edit?usp=sharing
 
 ## Installation
 
