@@ -16,8 +16,9 @@ Doctrac is a document tracking system that allows users to create and track the 
 
 6. **Authority Tagging**: The responsible authority is tagged to each document, and they can digitally sign the document using their provided private key.
 
-## Screenshots and Detail Analysis
-https://docs.google.com/document/d/10mjqRdSvJm7z7sYW2pKFFwFzG9C0fG267S8n-21Lb6g/edit?usp=sharing
+## Video and Detail Analysis
+Video - https://drive.google.com/file/d/1G1e009NGsQ7oDGKqKN81hD5EdpZx4T99/view?usp=sharing
+Analysis - https://docs.google.com/document/d/10mjqRdSvJm7z7sYW2pKFFwFzG9C0fG267S8n-21Lb6g/edit?usp=sharing
 
 ## Installation
 
