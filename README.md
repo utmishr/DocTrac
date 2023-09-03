@@ -26,7 +26,7 @@ Doctrac is a document tracking system that allows users to create and track the 
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/ankitsankhyan/Document_tracking_system.git
+   git clone https://github.com/utmishr/DocTrac.git
    cd doctrac
    ```
 
